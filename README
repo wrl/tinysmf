@@ -1,0 +1,15 @@
+                  _
+ _|_o._    _._ __|_
+  |_|| |\/_>| | ||
+        /
+
+  tinysmf is a library for parsing standard midi files. it has no data
+  model of its own, instead using callbacks to pass data into the client
+  code.
+
+  made available under a liberal 2-clause BSD license, and consisting of
+  one header file and one C file for easy inclusion into applications.
+
+  see src/test.c for example API usage.
+
+  wrl@illest.net
